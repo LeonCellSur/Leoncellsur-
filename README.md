@@ -1,1 +1,85 @@
-# Leoncellsur-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leoncellsur | Reparación de Celulares</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f3f3f3;
+      color: #333;
+      text-align: center;
+    }
+
+    header {
+      background-color: #111;
+      color: #fff;
+      padding: 20px;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    .social-links {
+      margin: 40px 0;
+    }
+
+    .social-links a {
+      display: inline-block;
+      margin: 0 15px;
+      text-decoration: none;
+      color: #111;
+      font-size: 20px;
+    }
+
+    .social-links img {
+      width: 40px;
+      height: 40px;
+      vertical-align: middle;
+      margin-right: 8px;
+    }
+
+    footer {
+      margin-top: 50px;
+      padding: 20px;
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Leoncellsur</h1>
+    <p>Reparación de celulares y cambio de vidrio</p>
+  </header>
+
+  <div class="social-links">
+    <h2>Síguenos en nuestras redes</h2>
+    <a href="https://facebook.com/Leoncellsur" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook">
+      Facebook
+    </a>
+    <a href="https://instagram.com/Leoncellsur" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
+      Instagram
+    </a>
+    <a href="https://wa.me/1234567890" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
+      WhatsApp
+    </a>
+    <a href="mailto:leoncellsur@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Correo">
+      Correo
+    </a>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Leoncellsur. Todos los derechos reservados.</p>
+  </footer>
+
+</body>
+</html># Leoncellsur-
